@@ -1,0 +1,22 @@
+{
+  "name": "java-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aigle": "^1.12.0",
+    "commander": "^2.16.0",
+    "json2yaml": "^1.1.0",
+    "lodash": "^4.17.10",
+    "node-yaml": "^3.1.1",
+    "properties": "^1.2.1",
+    "js-yaml": "latest"
+  }
+}
